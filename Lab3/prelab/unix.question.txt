@@ -1,0 +1,8 @@
+/*
+ * Yingqing Huang
+ * yh3ra
+ * 09/12
+ * unix.question.txt
+ */
+
+What if the word "list" is in the middle, since *list and list* cannot be used.

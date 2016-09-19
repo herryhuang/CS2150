@@ -1,0 +1,5 @@
+When comment out #include <iostream>, there was no error.
+
+When comment out using namespace std, there was an error. Vectors and String are now undeclared. Std is the feature of the standard library. If not declare at the top. at every place below showing string or vector, std:: should be added.
+
+Why we need "using spacename std" at top, but not adding each of them at bottom in front of each vector and string.

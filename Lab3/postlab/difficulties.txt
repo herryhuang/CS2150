@@ -1,0 +1,10 @@
+/*
+ * Yingqing Huang
+ * yh3ra
+ * 09/14
+ * difficulties.txt
+ */
+
+I am not quite sure how to write destructor for stack. Therefore, I went back to see how I did it for the list. It gave me ideas and did the similar things to it.
+
+I almost forgot there is a retrieve method. It took me a while to figure out how to get the number.

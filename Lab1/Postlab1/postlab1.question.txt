@@ -1,0 +1,2 @@
+ 
+Why for List<char> list2; does not need to include new List<char>();
